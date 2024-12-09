@@ -1,0 +1,6 @@
+activateProperties=true
+content_assist_parameters_background=0,0,0
+content_assist_proposals_background=0,0,0
+eclipse.preferences.version=1
+matchingBrackets=true
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>

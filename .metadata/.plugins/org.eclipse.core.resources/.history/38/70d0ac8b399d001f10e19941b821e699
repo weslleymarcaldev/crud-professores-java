@@ -1,0 +1,22 @@
+package br.com.professores.repository;
+
+import javax.ejb.Stateless;
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+import br.com.professores.model.Pessoa;
+
+@Stateless
+public class PessoaRepository {
+
+	@PersistenceContext
+	private EntityManager em;
+	
+	public void persist(Pessoa pessoa) {
+		em.persist(pessoa);
+		
+	}
+	
+}
+"{\"WFLYCTL0080: Failed services\" => {\"jboss.deployment.unit.\\\"Professores.war\\\".PARSE\" => \"WFLYSRV0153: Failed to process phase PARSE of deployment \\\"Professores.war\\\"
+Caused by: org.jboss.as.server.deployment.DeploymentUnitProcessingException: WFLYEJB0091: @EJB attribute 'name' is required for class level annotations. Class: br.com.professores.service.PessoaService\"}}"

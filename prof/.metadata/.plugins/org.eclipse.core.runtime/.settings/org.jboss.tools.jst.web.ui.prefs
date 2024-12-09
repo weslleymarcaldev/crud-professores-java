@@ -1,0 +1,4 @@
+Show\ Selection\ Tag\ Bar=false
+eclipse.preferences.version=1
+newFileTemplateName=Blank Facelet Page
+org.jboss.tools.jsf.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>

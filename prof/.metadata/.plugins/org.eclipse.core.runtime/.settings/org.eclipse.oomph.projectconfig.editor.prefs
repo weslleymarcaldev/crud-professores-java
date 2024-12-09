@@ -1,0 +1,4 @@
+configurationManagement=manual
+configurationValidation=prompt
+eclipse.preferences.version=1
+propertyModificationHandling=PROMPT

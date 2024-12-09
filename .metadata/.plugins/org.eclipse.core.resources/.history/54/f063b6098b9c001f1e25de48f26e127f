@@ -1,0 +1,5 @@
+package br.com.professores.service;
+
+public class PessoaService {
+
+}

@@ -1,0 +1,18 @@
+package br.com.professores.repository;
+
+import javax.ejb.Stateless;
+import javax.persistence.EntityManager;
+
+import br.com.professores.model.Pessoa;
+
+@Stateless
+public class PessoaRepository {
+
+	private EntityManager em;
+	
+	public void persist(Pessoa pessoa) {
+		em.persist(pessoa);
+		
+	}
+	
+}

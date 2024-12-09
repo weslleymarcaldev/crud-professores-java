@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="xmlns=&quot;urn:jboss:domain"/>
+		<item value="xmlnsxmlns"/>
+		<item value="datasource"/>
+		<item value="xmlns=&quot;urn:jboss:domai"/>
+		<item value="subsystem xmlns=&quot;urn:jboss:domain:"/>
+		<item value="subsystem xmlns=&quot;urn:jboss:"/>
+		<item value="urn:jboss"/>
+		<item value="9990"/>
+		<item value="Pessoa"/>
+		<item value="javax.xml.stream.Location.getLineNumber"/>
+	</list>
+	<section name="org.eclipse.wst.dtd.ui.internal.preferences.DTDTemplatePreferencePage$DTDEditTemplateDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="252"/>
+		<item key="DIALOG_Y_ORIGIN" value="210"/>
+		<item key="DIALOG_WIDTH" value="609"/>
+		<item key="DIALOG_HEIGHT" value="329"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.eclipse.tm4e.ui.taskTags=[{"severity"\:"INFO","tag"\:"NOTE","type"\:"PROBLEM"},{"priority"\:"HIGH","tag"\:"BUG","type"\:"TASK"},{"priority"\:"NORMAL","tag"\:"XXX","type"\:"TASK"},{"priority"\:"NORMAL","tag"\:"TODO","type"\:"TASK"},{"priority"\:"HIGH","tag"\:"FIXME","type"\:"TASK"},{"severity"\:"INFO","tag"\:"ATTN","type"\:"PROBLEM"},{"priority"\:"NORMAL","tag"\:"HACK","type"\:"TASK"},{"priority"\:"NORMAL","tag"\:"OPTIMIZE","type"\:"TASK"}]
+org.eclipse.tm4e.ui.themeAssociations=[]
+org.eclipse.tm4e.ui.themes=[]
+org.eclipse.tm4e.ui.themes.defaultDarkTheme=org.eclipse.tm4e.ui.themes.Monokai
+org.eclipse.tm4e.ui.tmScopeHoverEnabled=false

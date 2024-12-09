@@ -1,0 +1,11 @@
+#Thu Nov 07 13:38:57 BRT 2024
+ct=jbt
+a=finishWizard
+c=0
+s=1
+d=1730997537927
+v=2.3.100
+vl=How many times the 'Finish' button pressed during the day
+cmp=usage
+cl=org.jboss.tools.jst.web.ui.wizards.newfile.NewXHTMLWizard
+l=Wizard class name

@@ -1,0 +1,15 @@
+package br.com.professores.beans;
+
+import java.io.Serializable;
+
+import javax.enterprise.context.RequestScoped;
+import javax.inject.Named;
+
+@Named
+@RequestScoped
+public class PessoaBean implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+
+	
+}

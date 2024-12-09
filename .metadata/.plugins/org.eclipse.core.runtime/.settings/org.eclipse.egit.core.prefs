@@ -1,0 +1,8 @@
+GitRepositoriesView.GitDirectories=D\:\\Sistemas\\prof\\prof\\.git;
+GitRepositoriesView.GitDirectories.relative=prof\\.git;
+core_defaultRepositoryDir=D\:\\Sistemas\\prof
+core_git_servers=GITHUB\thttps\://github.com/weslleymarcaldev/professores.git\n
+core_http_client=jdk
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+core_ssh_default_agent=\\\\.\\pageant
+eclipse.preferences.version=1

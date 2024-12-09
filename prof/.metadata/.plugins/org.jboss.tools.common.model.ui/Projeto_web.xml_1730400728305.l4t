@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout resource="/Projeto/src/main/webapp/WEB-INF/web.xml">
+ <TreeFormPage>
+  <Memento type="FileWebApp24">
+   <Memento collapsed="false" type="Web Descriptor 2.4"/>
+   <Memento collapsed="false" type="Context Params"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="WebAppServlet">
+   <Memento type="Servlet"/>
+   <Memento type="Init Params"/>
+   <Memento type="Security Roles"/>
+   <Memento type="Advanced"/>
+  </Memento>
+  <Memento type="">
+   <Memento collapsed="false" type="Properties Editor"/>
+  </Memento>
+  <Memento type="WebAppFolderErrorPages">
+   <Memento collapsed="false" type="Error Pages"/>
+  </Memento>
+ </TreeFormPage>
+</Layout>

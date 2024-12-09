@@ -1,0 +1,11 @@
+#Mon Nov 04 14:33:09 BRT 2024
+ct=jmx
+a=jmx_connect
+c=0
+s=0
+d=1730741589073
+v=1.10.400
+vl=JMX Provider type
+cmp=jmx
+cl=org.jboss.ide.eclipse.as.core.extensions.jmx.JBoss71ServerConnectionProvider
+l=JMX Provider type
